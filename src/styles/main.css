@@ -1,0 +1,20 @@
+@import "details.css";
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&family=Henny+Penny&display=swap');
+
+/*Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+textarea {
+	color: #6e015c;
+	font-family: "Henny Penny", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Fontdiner Swanky", serif;
+  letter-spacing: 2px;
+}
